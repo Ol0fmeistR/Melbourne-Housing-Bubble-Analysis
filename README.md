@@ -1,2 +1,2 @@
-# ol0fmeistr.github.io
+# Ol0fmeistR.github.io
 Data visualization notebook for the purpose of analyzing the Melbourne Housing Bubble (2016-2019)
